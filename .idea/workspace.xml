@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3a352ae-6a83-4c0b-970d-44533d9426f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/cfg_detect_speedlimit_locations.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/cfg_loc_regression.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_source/_static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_source/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_source/contributing.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_source/folder_structure.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_source/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_source/modules.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_source/taigr.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_source/taigr.speedlimits.data.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_source/taigr.speedlimits.features.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_source/taigr.speedlimits.models.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_source/taigr.speedlimits.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_source/taigr.speedlimits.visualisation.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_source/usage.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/change_locations.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/make.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dumpsplitsegments.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-commit-data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-commit-models" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-init-repo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/analytics/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/analytics/00004435-3800-0400-0000-000000d68a44.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/analytics/fcd_API_Dump_test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/analytics/fcd_DumpHistoric_analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/analytics/speed&amp;acceleration_analysis_BERLIN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/analytics/speed&amp;acceleration_analysis_HESSEN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/analytics/speed_kde.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/analytics/visualize_speed_stats_all_changes.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/analytics/window_classification.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/references/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/figures/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampledata/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampledata/dummy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/configs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/configs/display_setting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/data/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/data/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/data/clustering.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/data/fcd_dump.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/data/feature_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/data/fix_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/data/keras_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/data/trace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/data/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/features/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/features/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/features/fcd_features.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/models/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/pipeline/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/pipeline/aggr_learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/pipeline/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/pipeline/defuzzifiers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/pipeline/location_regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/pipeline/parse_mapmatched.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/pipeline/probe_download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/pipeline/sign_detection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/pipeline/sign_loc_training.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/pipeline/window_classification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/visualisation/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taigr/speedlimits/visualisation/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/data/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/data/test_clustering.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/data/test_trace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_dummy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_environment.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22xyjblGJZq37CfBK5iNEn08mSR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3a352ae-6a83-4c0b-970d-44533d9426f8" name="Changes" comment="" />
+      <created>1640793668862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640793668862</updated>
+      <workItem from="1640793670135" duration="2985000" />
+      <workItem from="1641054488819" duration="7639000" />
+      <workItem from="1641080569053" duration="2202000" />
+      <workItem from="1641138055221" duration="1308000" />
+      <workItem from="1641157561180" duration="2999000" />
+      <workItem from="1641212426646" duration="964000" />
+      <workItem from="1641392150577" duration="610000" />
+      <workItem from="1641734525640" duration="1554000" />
+      <workItem from="1641991437721" duration="1304000" />
+      <workItem from="1645523526202" duration="1376000" />
+      <workItem from="1645533140063" duration="1068000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
